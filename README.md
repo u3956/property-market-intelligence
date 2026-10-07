@@ -1,7 +1,7 @@
 # Property Market Intelligence: Tahiti
 
 ## Objective
-
+ 
 My goal was to understand the Tahitian property market and its dynamics: which properties are listed, how long they stay on the market, and which segments (location, size, rent level) move fastest. Public listing websites only show the current stock. They keep no history and give no view of market turnover.
 
 ## Approach
