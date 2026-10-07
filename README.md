@@ -37,10 +37,6 @@ I used the data to test a few assumptions I had about the local rental market. T
 
 Each finding in the report is rated solid, likely or to confirm, based on the number of departures behind it and on the age of the listings still online.
 
-![Report summary page](figures/report-summary.png)
-![Rotation by segment](figures/rotation-by-segment.png)
-![Rotation by rent](figures/rotation-by-rent.png)
-
 ## Architecture
 
 ```mermaid
@@ -105,3 +101,8 @@ Python (standard library) · Telegram Bot API · open-source AI agent framework 
 - 2 Oct: shared shortlist, digest moved to 7:00
 - 4 Oct: rental report rebuilt, first market study
 - 5 Oct: weekly PDF report
+
+
+![Report summary page](figures/report-summary.png)
+![Rotation by segment](figures/rotation-by-segment.png)
+![Rotation by rent](figures/rotation-by-rent.png)
